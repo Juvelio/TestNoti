@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299517381623",
+    "project_id": "testnoti-2e714",
+    "storage_bucket": "testnoti-2e714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299517381623:android:0f45e4893fe1eddb243cf2",
+        "android_client_info": {
+          "package_name": "com.blady.testnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299517381623-025vce5ds24saj1oom8o0v3jpbal94k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIx4Ozx3rLzLH8OCcsg-U70SFzhRNaIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299517381623-025vce5ds24saj1oom8o0v3jpbal94k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
